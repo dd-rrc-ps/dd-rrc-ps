@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hieu Dao
 - 👀 I’m interested in Embedded Software Developmnet
-- 🌱 I’m currently learning C, C++, Micro-Python
+- 🌱 I’m currently learning Embedded Software on STM32, Renesas, NXP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DucHieu.Dao@rrc-ps.de
 
